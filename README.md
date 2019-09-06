@@ -3,6 +3,7 @@
 ### IBM
 [True orth Chip](https://www.nextplatform.com/2018/09/27/a-rare-peek-into-ibms-true-north-neuromorphic-chip/)
 ### Pictures with name
+for neural networks  
 [image.net](http://www.image-net.org/)
 
 ## Documentation
