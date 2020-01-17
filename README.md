@@ -11,3 +11,7 @@ for neural networks
 
 ## Buzzwords
 neuromorphe Systeme
+
+## Articles
+German
+[PyToch-OpensForJava](https://www.heise.de/developer/meldung/Machine-Learning-PyTorch-1-4-oeffnet-sich-fuer-Java-4639227.html)
