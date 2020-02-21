@@ -16,6 +16,7 @@ neuromorphe Systeme
 German
 [PyToch-OpensForJava](https://www.heise.de/developer/meldung/Machine-Learning-PyTorch-1-4-oeffnet-sich-fuer-Java-4639227.html)  
 [Künstliche Intelligenz: EU-Parlament will nachvollziehbare Algorithmen ](https://www.heise.de/newsticker/meldung/Kuenstliche-Intelligenz-EU-Parlament-will-nachvollziehbare-Algorithmen-4659537.html)  
+[EuStrategieFuerWKiWirtschaftWarntVorÜeberregulierung](https://www.heise.de/newsticker/meldung/EU-Strategie-fuer-KI-Wirtschaft-warnt-vor-Ueberregulierung-4664662.html)  
 
 ## Literature & Media
 [Hands-On Intelligent Agents with OpenAI Gym: Your guide to developing AI agents using deep reinforcement learning (English Edition)](https://www.amazon.de/gp/product/178883657X/ref=ox_sc_act_title_1?smid=A3JWKAKR8XB7XF&psc=1)  
