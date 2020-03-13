@@ -13,13 +13,14 @@ for neural networks
 neuromorphe Systeme
 
 ## Articles
-German
+German  
 [PyToch-OpensForJava](https://www.heise.de/developer/meldung/Machine-Learning-PyTorch-1-4-oeffnet-sich-fuer-Java-4639227.html)  
 [Künstliche Intelligenz: EU-Parlament will nachvollziehbare Algorithmen ](https://www.heise.de/newsticker/meldung/Kuenstliche-Intelligenz-EU-Parlament-will-nachvollziehbare-Algorithmen-4659537.html)  
 [EuStrategieFuerWKiWirtschaftWarntVorÜeberregulierung](https://www.heise.de/newsticker/meldung/EU-Strategie-fuer-KI-Wirtschaft-warnt-vor-Ueberregulierung-4664662.html)  
 [Emotions](https://www.heise.de/newsticker/meldung/Expertenstreit-ueber-Emotionserkennung-durch-KI-4667496.html)  
 [Machine Learning: Google und Microsoft optimieren BERT](https://heise.de/-4643235)  
 [Mehr Durchblick beim maschinellen Sehen](https://www.golem.de/news/computer-vision-mehr-durchblick-beim-maschinellen-sehen-2001-144949.html)  
+[Google baut eine Pipeline für Machine Learning](https://heise.de/-4682425)  
 
 
 ## Literature & Media
