@@ -21,6 +21,7 @@ German
 [Machine Learning: Google und Microsoft optimieren BERT](https://heise.de/-4643235)  
 [Mehr Durchblick beim maschinellen Sehen](https://www.golem.de/news/computer-vision-mehr-durchblick-beim-maschinellen-sehen-2001-144949.html)  
 [Google baut eine Pipeline für Machine Learning](https://heise.de/-4682425)  
+[WieSichKI-EntscheidungenUeberprüfenLassen ](https://heise.de/-4665982)
 
 
 ## Literature & Media
