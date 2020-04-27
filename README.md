@@ -30,3 +30,9 @@ German
 [Deep Reinforcement Learning Hands-On: Apply modern RL methods, with deep Q-networks, value iteration, policy gradients, TRPO, AlphaGo Zero and more (English Edition)](https://www.amazon.de/gp/product/1788834240/ref=ox_sc_act_title_2?smid=A3JWKAKR8XB7XF&psc=1)  
 [Artificial Intelligence: A Modern Approach, Global Edition](https://www.amazon.de/gp/product/1292153962/ref=ox_sc_act_title_3?smid=A3JWKAKR8XB7XF&psc=1)  
 [Reinforcement Learning: An Introduction (Adaptive Computation and Machine Learning)](https://www.amazon.de/gp/product/0262039249/ref=ox_sc_act_title_4?smid=A3JWKAKR8XB7XF&psc=1)  
+
+## frameworks
+[intel openVINO](https://software.intel.com/en-us/openvino-toolkit/choose-download)    
+
+## wikipedia
+[openVINO](https://en.wikipedia.org/wiki/OpenVINO)  
