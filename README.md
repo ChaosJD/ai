@@ -32,7 +32,11 @@ German
 [Reinforcement Learning: An Introduction (Adaptive Computation and Machine Learning)](https://www.amazon.de/gp/product/0262039249/ref=ox_sc_act_title_4?smid=A3JWKAKR8XB7XF&psc=1)  
 
 ## frameworks
-[intel openVINO](https://software.intel.com/en-us/openvino-toolkit/choose-download)    
+* [intel openVINO](https://software.intel.com/en-us/openvino-toolkit/choose-download)    
 
 ## wikipedia
-[openVINO](https://en.wikipedia.org/wiki/OpenVINO)  
+* [openVINO](https://en.wikipedia.org/wiki/OpenVINO)  
+
+
+## vids
+* [MeinkuenstlicherDoppelgänger_ ServusTv](https://www.servustv.com/videos/aa-1w3frs2fw1w12/)  
