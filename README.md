@@ -25,6 +25,7 @@ German
 * [Künstliche Intelligenz: Trotz Datenmassen blind](https://heise.de/-4700771)  
 *  [Der Raspberry Pi für KI-Anwendungen](https://www.golem.de/news/jetson-nano-der-raspberry-pi-fuer-ki-anwendungen-2006-148311.html)
 * [Reinforcement Learning: DeepMind präsentiert eine neue Bibliothek für Python]( https://heise.de/-4773825)
+* [OpenAI präsentiert Mehrzweck-API für textbasierte KI-Aufgaben ](https://heise.de/-4781985)
 
 
 ## Literature & Media
