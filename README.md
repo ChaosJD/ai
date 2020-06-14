@@ -44,3 +44,6 @@ German
 
 ## vids
 * [MeinkuenstlicherDoppelgänger_ ServusTv](https://www.servustv.com/videos/aa-1w3frs2fw1w12/)  
+
+## tv recommendations
+* welt.de: Auto der Zukunft, Guck mal wer da fährt
