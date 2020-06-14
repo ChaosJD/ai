@@ -26,6 +26,7 @@ German
 *  [Der Raspberry Pi für KI-Anwendungen](https://www.golem.de/news/jetson-nano-der-raspberry-pi-fuer-ki-anwendungen-2006-148311.html)
 * [Reinforcement Learning: DeepMind präsentiert eine neue Bibliothek für Python]( https://heise.de/-4773825)
 * [OpenAI präsentiert Mehrzweck-API für textbasierte KI-Aufgaben ](https://heise.de/-4781985)
+* [https://www.golem.de/news/diskriminierung-ki-ist-nur-so-fair-wie-die-menschen-die-sie-programmieren-2006-148768.html](KI ist nur so fair wie die Menschen)
 
 
 ## Literature & Media
@@ -47,3 +48,5 @@ German
 
 ## tv recommendations
 * welt.de: Auto der Zukunft, Guck mal wer da fährt
+
+
