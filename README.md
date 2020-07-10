@@ -45,9 +45,14 @@ German
 
 
 ## vids
-* [MeinkuenstlicherDoppelgänger_ ServusTv](https://www.servustv.com/videos/aa-1w3frs2fw1w12/)  
+* [MeinkuenstlicherDoppelgänger_ ServusTv](https://www.servustv.com/videos/aa-1w3frs2fw1w12/) 
+* [Hello, AI World. Meet Jetson Nano](https://youtu.be/9gVupqHqJws)
 
 ## tv recommendations
 * welt.de: Auto der Zukunft, Guck mal wer da fährt
 
+# L_AI
+* [Chip schafft 2.900 Teraops pro Watt](https://www.golem.de/news/analog-inference-accelerator-ki-chip-schafft-2-900-teraops-pro-watt-2007-149559.html)
+* [NVIDIA Jetson_DeveloperKit](https://developer.nvidia.com/embedded/jetson-nano-developer-kit)
+* [NVIDIA_Jetson_Module](https://developer.nvidia.com/embedded/jetson-nano)
 
