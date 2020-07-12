@@ -56,3 +56,5 @@ German
 * [NVIDIA Jetson_DeveloperKit](https://developer.nvidia.com/embedded/jetson-nano-developer-kit)
 * [NVIDIA_Jetson_Module](https://developer.nvidia.com/embedded/jetson-nano)
 
+# CiCd AI
+* [Machine Learning: CML schickt Daten und Modelltraining in die Pipeline](https://heise.de/-4841023)
