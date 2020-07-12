@@ -55,6 +55,10 @@ German
 * [Chip schafft 2.900 Teraops pro Watt](https://www.golem.de/news/analog-inference-accelerator-ki-chip-schafft-2-900-teraops-pro-watt-2007-149559.html)
 * [NVIDIA Jetson_DeveloperKit](https://developer.nvidia.com/embedded/jetson-nano-developer-kit)
 * [NVIDIA_Jetson_Module](https://developer.nvidia.com/embedded/jetson-nano)
+* [Google_Coral](https://coral.ai/products/dev-board/)
+
+# bibs
+* [arxiv.org](https://arxiv.org/)
 
 # CiCd AI
 * [Machine Learning: CML schickt Daten und Modelltraining in die Pipeline](https://heise.de/-4841023)
