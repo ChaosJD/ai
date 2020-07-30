@@ -63,3 +63,6 @@ German
 
 # CiCd AI
 * [Machine Learning: CML schickt Daten und Modelltraining in die Pipeline](https://heise.de/-4841023)
+
+# service
+* [aiva](https://www.aiva.ai/)
