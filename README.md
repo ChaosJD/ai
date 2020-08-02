@@ -29,7 +29,8 @@ German
 * [https://www.golem.de/news/diskriminierung-ki-ist-nur-so-fair-wie-die-menschen-die-sie-programmieren-2006-148768.html](KI ist nur so fair wie die Menschen)
 * [KI ist nur so fair wie die Menschen](https://www.golem.de/news/diskriminierung-ki-ist-nur-so-fair-wie-die-menschen-die-sie-programmieren-2006-148768.html)
 * [Machine Learning: MLflow landet bei der Linux Foundation](https://www.heise.de/news/Machine-Learning-MLflow-landet-bei-der-Linux-Foundation-4795170.html)
-* [TransCoder von Facebook AI übersetzt zwischen Programmiersprachen]( https://heise.de/-4851687)
+* [TransCoder von Facebook AI übersetzt zwischen Programmiersprachen]( https://heise.de/-4851687)  
+* [9 Key Machine Learning Algorithms Explained in Plain English](https://www.freecodecamp.org/news/a-no-code-intro-to-the-9-most-important-machine-learning-algorithms-today/)
 
 ## Literature & Media
 * [Hands-On Intelligent Agents with OpenAI Gym: Your guide to developing AI agents using deep reinforcement learning (English Edition)](https://www.amazon.de/gp/product/178883657X/ref=ox_sc_act_title_1?smid=A3JWKAKR8XB7XF&psc=1)  
