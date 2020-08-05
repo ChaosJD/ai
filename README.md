@@ -32,6 +32,7 @@ German
 * [TransCoder von Facebook AI übersetzt zwischen Programmiersprachen]( https://heise.de/-4851687)  
 * [9 Key Machine Learning Algorithms Explained in Plain English](https://www.freecodecamp.org/news/a-no-code-intro-to-the-9-most-important-machine-learning-algorithms-today/)
 * [Machine Learning: Low-Code-Library PyCaret 2.0 automatisiert den ML-Workflow](https://heise.de/-4861273)
+* [munich_i: Hightech-Summit zu gesellschaftlichen Fragen Künstlicher Intelligenz]( https://heise.de/-4862444)
 
 ## Literature & Media
 * [Hands-On Intelligent Agents with OpenAI Gym: Your guide to developing AI agents using deep reinforcement learning (English Edition)](https://www.amazon.de/gp/product/178883657X/ref=ox_sc_act_title_1?smid=A3JWKAKR8XB7XF&psc=1)  
@@ -39,19 +40,19 @@ German
 * [Artificial Intelligence: A Modern Approach, Global Edition](https://www.amazon.de/gp/product/1292153962/ref=ox_sc_act_title_3?smid=A3JWKAKR8XB7XF&psc=1)  
 * [Reinforcement Learning: An Introduction (Adaptive Computation and Machine Learning)](https://www.amazon.de/gp/product/0262039249/ref=ox_sc_act_title_4?smid=A3JWKAKR8XB7XF&psc=1)  
 
-## frameworks
+## Frameworks
 * [intel openVINO](https://software.intel.com/en-us/openvino-toolkit/choose-download)    
 * [https://opencv.org/](https://opencv.org/)
 
-## wikipedia
+## Wikipedia
 * [openVINO](https://en.wikipedia.org/wiki/OpenVINO)  
 
 
-## vids
+## Vids
 * [MeinkuenstlicherDoppelgänger_ ServusTv](https://www.servustv.com/videos/aa-1w3frs2fw1w12/) 
 * [Hello, AI World. Meet Jetson Nano](https://youtu.be/9gVupqHqJws)
 
-## tv recommendations
+## TvRecommendations
 * welt.de: Auto der Zukunft, Guck mal wer da fährt
 
 # L_AI
@@ -60,7 +61,7 @@ German
 * [NVIDIA_Jetson_Module](https://developer.nvidia.com/embedded/jetson-nano)
 * [Google_Coral](https://coral.ai/products/dev-board/)
 
-# bibs
+# Bib
 * [arxiv.org](https://arxiv.org/)
 
 # CiCd AI
@@ -68,3 +69,4 @@ German
 
 # service
 * [aiva](https://www.aiva.ai/)
+
