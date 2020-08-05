@@ -48,6 +48,7 @@ German
 
 ## Wikipedia
 * [openVINO](https://en.wikipedia.org/wiki/OpenVINO)  
+* [Tensor Processing Unit](https://de.wikipedia.org/wiki/Tensor_Processing_Unit)
 
 
 ## Vids
