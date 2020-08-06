@@ -63,6 +63,7 @@ German
 * [NVIDIA Jetson_DeveloperKit](https://developer.nvidia.com/embedded/jetson-nano-developer-kit)
 * [NVIDIA_Jetson_Module](https://developer.nvidia.com/embedded/jetson-nano)
 * [Google_Coral](https://coral.ai/products/dev-board/)
+* [tinyvision](https://tinyvision.ai/)
 
 # Bib
 * [arxiv.org](https://arxiv.org/)
