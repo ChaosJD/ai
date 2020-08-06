@@ -73,3 +73,5 @@ German
 # service
 * [aiva](https://www.aiva.ai/)
 
+# market
++ [Nascent Market Definition](http://www.invstor.com/information/go-big-dictionary/nascent-market-definition)
