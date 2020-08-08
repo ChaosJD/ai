@@ -33,7 +33,7 @@ German
 * [9 Key Machine Learning Algorithms Explained in Plain English](https://www.freecodecamp.org/news/a-no-code-intro-to-the-9-most-important-machine-learning-algorithms-today/)
 * [Machine Learning: Low-Code-Library PyCaret 2.0 automatisiert den ML-Workflow](https://heise.de/-4861273)
 * [munich_i: Hightech-Summit zu gesellschaftlichen Fragen Künstlicher Intelligenz]( https://heise.de/-4862444)
-* (Weiße Stereotype bei intelligenten Maschinen: zu viel "Whiteness" in der KI)[https://heise.de/-4865978]
+* [Weiße Stereotype bei intelligenten Maschinen: zu viel "Whiteness" in der KI](https://heise.de/-4865978)
 
 ## Literature & Media
 * [Hands-On Intelligent Agents with OpenAI Gym: Your guide to developing AI agents using deep reinforcement learning (English Edition)](https://www.amazon.de/gp/product/178883657X/ref=ox_sc_act_title_1?smid=A3JWKAKR8XB7XF&psc=1)  
