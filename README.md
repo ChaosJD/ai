@@ -53,9 +53,13 @@ German
 * [Tensor Processing Unit](https://de.wikipedia.org/wiki/Tensor_Processing_Unit)
 
 
-## Vids
+## Vid
 * [MeinkuenstlicherDoppelgänger_ ServusTv](https://www.servustv.com/videos/aa-1w3frs2fw1w12/) 
 * [Hello, AI World. Meet Jetson Nano](https://youtu.be/9gVupqHqJws)
+* [DE
+9+
+1:27:40 / 1:30:27
+AlphaGo - The Movie | Full Documentary](https://youtu.be/WXuK6gekU1Y)
 
 ## TvRecommendations
 * welt.de: Auto der Zukunft, Guck mal wer da fährt
