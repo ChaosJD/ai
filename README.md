@@ -34,6 +34,7 @@ German
 * [Machine Learning: Low-Code-Library PyCaret 2.0 automatisiert den ML-Workflow](https://heise.de/-4861273)
 * [munich_i: Hightech-Summit zu gesellschaftlichen Fragen Künstlicher Intelligenz]( https://heise.de/-4862444)
 * [Weiße Stereotype bei intelligenten Maschinen: zu viel "Whiteness" in der KI](https://heise.de/-4865978)
+* [Googles Android ML Kit transkribiert handschriftliche Notizen](https://heise.de/-4867248)
 
 ## Literature & Media
 * [Hands-On Intelligent Agents with OpenAI Gym: Your guide to developing AI agents using deep reinforcement learning (English Edition)](https://www.amazon.de/gp/product/178883657X/ref=ox_sc_act_title_1?smid=A3JWKAKR8XB7XF&psc=1)  
@@ -43,6 +44,7 @@ German
 * [KI-Chip schafft 2.900 Teraops pro Watt](https://www.golem.de/news/analog-inference-accelerator-ki-chip-schafft-2-900-teraops-pro-watt-2007-149559.html)
 * [Imec and GLOBALFOUNDRIES Announce Breakthrough in AI Chip, Bringing Deep Neural Network Calculations to IoT Edge Devices](https://www.globalfoundries.com/news-events/press-releases/imec-and-globalfoundries-announce-breakthrough-ai-chip-bringing-deep)
 * [Saudi-Arabien verleiht erstmals einem Roboter die Staatsbürgerschaft](https://heise.de/-3874444)
+
 
 ## Frameworks
 * [intel openVINO](https://software.intel.com/en-us/openvino-toolkit/choose-download)    
