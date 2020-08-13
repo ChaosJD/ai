@@ -35,6 +35,7 @@ German
 * [munich_i: Hightech-Summit zu gesellschaftlichen Fragen Künstlicher Intelligenz]( https://heise.de/-4862444)
 * [Weiße Stereotype bei intelligenten Maschinen: zu viel "Whiteness" in der KI](https://heise.de/-4865978)
 * [Googles Android ML Kit transkribiert handschriftliche Notizen](https://heise.de/-4867248)
+* [Edge Computing: IoT-Plattform StarlingX 4.0 integriert Kata-Container](https://heise.de/-4867269)
 
 ## Literature & Media
 * [Hands-On Intelligent Agents with OpenAI Gym: Your guide to developing AI agents using deep reinforcement learning (English Edition)](https://www.amazon.de/gp/product/178883657X/ref=ox_sc_act_title_1?smid=A3JWKAKR8XB7XF&psc=1)  
@@ -44,6 +45,7 @@ German
 * [KI-Chip schafft 2.900 Teraops pro Watt](https://www.golem.de/news/analog-inference-accelerator-ki-chip-schafft-2-900-teraops-pro-watt-2007-149559.html)
 * [Imec and GLOBALFOUNDRIES Announce Breakthrough in AI Chip, Bringing Deep Neural Network Calculations to IoT Edge Devices](https://www.globalfoundries.com/news-events/press-releases/imec-and-globalfoundries-announce-breakthrough-ai-chip-bringing-deep)
 * [Saudi-Arabien verleiht erstmals einem Roboter die Staatsbürgerschaft](https://heise.de/-3874444)
+
 
 
 ## Frameworks
@@ -66,7 +68,7 @@ AlphaGo - The Movie | Full Documentary](https://youtu.be/WXuK6gekU1Y)
 ## TvRecommendations
 * welt.de: Auto der Zukunft, Guck mal wer da fährt
 
-# L_AI
+# EdgeDevices
 * [Chip schafft 2.900 Teraops pro Watt](https://www.golem.de/news/analog-inference-accelerator-ki-chip-schafft-2-900-teraops-pro-watt-2007-149559.html)
 * [NVIDIA Jetson_DeveloperKit](https://developer.nvidia.com/embedded/jetson-nano-developer-kit)
 * [NVIDIA_Jetson_Module](https://developer.nvidia.com/embedded/jetson-nano)
