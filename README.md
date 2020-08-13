@@ -36,6 +36,8 @@ German
 * [Weiße Stereotype bei intelligenten Maschinen: zu viel "Whiteness" in der KI](https://heise.de/-4865978)
 * [Googles Android ML Kit transkribiert handschriftliche Notizen](https://heise.de/-4867248)
 * [Edge Computing: IoT-Plattform StarlingX 4.0 integriert Kata-Container](https://heise.de/-4867269)
+* [Deutschland und 96 andere sind gegen autonome Kampfroboter](https://www.golem.de/news/ki-im-militaer-deutschland-und-96-andere-sind-gegen-autonome-kampfroboter-2008-150243.html)
+* [Saudi-Arabien verleiht erstmals einem Roboter die Staatsbürgerschaft](https://heise.de/-3874444)
 
 ## Literature & Media
 * [Hands-On Intelligent Agents with OpenAI Gym: Your guide to developing AI agents using deep reinforcement learning (English Edition)](https://www.amazon.de/gp/product/178883657X/ref=ox_sc_act_title_1?smid=A3JWKAKR8XB7XF&psc=1)  
@@ -44,7 +46,7 @@ German
 * [Reinforcement Learning: An Introduction (Adaptive Computation and Machine Learning)](https://www.amazon.de/gp/product/0262039249/ref=ox_sc_act_title_4?smid=A3JWKAKR8XB7XF&psc=1)  
 * [KI-Chip schafft 2.900 Teraops pro Watt](https://www.golem.de/news/analog-inference-accelerator-ki-chip-schafft-2-900-teraops-pro-watt-2007-149559.html)
 * [Imec and GLOBALFOUNDRIES Announce Breakthrough in AI Chip, Bringing Deep Neural Network Calculations to IoT Edge Devices](https://www.globalfoundries.com/news-events/press-releases/imec-and-globalfoundries-announce-breakthrough-ai-chip-bringing-deep)
-* [Saudi-Arabien verleiht erstmals einem Roboter die Staatsbürgerschaft](https://heise.de/-3874444)
+
 
 
 
