@@ -78,14 +78,17 @@ AlphaGo - The Movie | Full Documentary](https://youtu.be/WXuK6gekU1Y)
 * [Google_Coral](https://coral.ai/products/dev-board/)
 * [tinyvision](https://tinyvision.ai/)
 
-# Bib
+## Accelerator
+ * [Coral USB Accelerator](https://coral.ai/products/accelerator)
+
+## Bib
 * [arxiv.org](https://arxiv.org/)
 
 # CiCd AI
 * [Machine Learning: CML schickt Daten und Modelltraining in die Pipeline](https://heise.de/-4841023)
 
-# service
+# Service
 * [aiva](https://www.aiva.ai/)
 
-# market
+# Market
 + [Nascent Market Definition](http://www.invstor.com/information/go-big-dictionary/nascent-market-definition)
