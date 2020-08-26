@@ -40,6 +40,7 @@ German
 * [Saudi-Arabien verleiht erstmals einem Roboter die Staatsbürgerschaft](https://heise.de/-3874444)
 * [KI-Chip schafft 2.900 Teraops pro Watt](https://www.golem.de/news/analog-inference-accelerator-ki-chip-schafft-2-900-teraops-pro-watt-2007-149559.html)
 * [Imec and GLOBALFOUNDRIES Announce Breakthrough in AI Chip, Bringing Deep Neural Network Calculations to IoT Edge Devices](https://www.globalfoundries.com/news-events/press-releases/imec-and-globalfoundries-announce-breakthrough-ai-chip-bringing-deep)
+* [Beim Programmieren ist KI (noch) keine große Hilfe](https://www.golem.de/news/softwareentwicklung-beim-programmieren-ist-ki-noch-keine-grosse-hilfe-2008-149914.html)
 
 ## Literature & Media
 * [Hands-On Intelligent Agents with OpenAI Gym: Your guide to developing AI agents using deep reinforcement learning (English Edition)](https://www.amazon.de/gp/product/178883657X/ref=ox_sc_act_title_1?smid=A3JWKAKR8XB7XF&psc=1)  
