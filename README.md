@@ -67,10 +67,8 @@ German
 ## Vid
 * [MeinkuenstlicherDoppelgänger_ ServusTv](https://www.servustv.com/videos/aa-1w3frs2fw1w12/) 
 * [Hello, AI World. Meet Jetson Nano](https://youtu.be/9gVupqHqJws)
-* [DE
-9+
-1:27:40 / 1:30:27
-AlphaGo - The Movie | Full Documentary](https://youtu.be/WXuK6gekU1Y)
+* [AlphaGo - The Movie | Full Documentary](https://youtu.be/WXuK6gekU1Y)
+* [ Künstliche Intelligenz - Wettlauf der Großmächte](https://www.zdf.de/dokumentation/zdfinfo-doku/-kuenstliche-intelligenz-wettlauf-der-grossmaechte-100.html)
 
 ## TvRecommendations
 * welt.de: Auto der Zukunft, Guck mal wer da fährt
