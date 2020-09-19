@@ -69,6 +69,7 @@ German
 * [Hello, AI World. Meet Jetson Nano](https://youtu.be/9gVupqHqJws)
 * [AlphaGo - The Movie | Full Documentary](https://youtu.be/WXuK6gekU1Y)
 * [ Künstliche Intelligenz - Wettlauf der Großmächte](https://www.zdf.de/dokumentation/zdfinfo-doku/-kuenstliche-intelligenz-wettlauf-der-grossmaechte-100.html)
+* [K.o. durch KI? Keine Angst vor schlauen Maschinen!](https://www.zdf.de/wissen/leschs-kosmos/ko-durch-ki-keine-angst-vor-schlauen-maschinen-100.html)
 
 ## TvRecommendations
 * welt.de: Auto der Zukunft, Guck mal wer da fährt
