@@ -70,8 +70,9 @@ German
 * [AlphaGo - The Movie | Full Documentary](https://youtu.be/WXuK6gekU1Y)
 * [ Künstliche Intelligenz - Wettlauf der Großmächte](https://www.zdf.de/dokumentation/zdfinfo-doku/-kuenstliche-intelligenz-wettlauf-der-grossmaechte-100.html)
 * [K.o. durch KI? Keine Angst vor schlauen Maschinen!](https://www.zdf.de/wissen/leschs-kosmos/ko-durch-ki-keine-angst-vor-schlauen-maschinen-100.html)
+* [Weltmacht Amazon - Das Reich des Jeff Bezos - german](https://www.zdf.de/dokumentation/zdfinfo-doku/weltmacht-amazon---das-reich-des-jeff-bezos-100.html)
 
-## TvRecommendations
+## TvRecommendation
 * welt.de: Auto der Zukunft, Guck mal wer da fährt
 
 # EdgeDevices
