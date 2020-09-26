@@ -50,7 +50,7 @@ German
 * [Artificial Intelligence: A Modern Approach, Global Edition](https://www.amazon.de/gp/product/1292153962/ref=ox_sc_act_title_3?smid=A3JWKAKR8XB7XF&psc=1)  
 * [Reinforcement Learning: An Introduction (Adaptive Computation and Machine Learning)](https://www.amazon.de/gp/product/0262039249/ref=ox_sc_act_title_4?smid=A3JWKAKR8XB7XF&psc=1)  
 * [TÜV-Verband fordert Zulassungsverfahren für gefährliche KI-Anwendungen ]( https://heise.de/-4887239)
-
+* [European AI Fund: Mozilla sucht KI-Experten und Bürgerrechtler](https://heise.de/-4911277)
 
 
 
