@@ -52,7 +52,7 @@ German
 * [TÜV-Verband fordert Zulassungsverfahren für gefährliche KI-Anwendungen ]( https://heise.de/-4887239)
 * [European AI Fund: Mozilla sucht KI-Experten und Bürgerrechtler](https://heise.de/-4911277)
 * [Verwaltung und Inbetriebnahme von ML-Modellen]( https://heise.de/-4911723)
-
+* [Machine Learning: Torch für R ersetzt PyTorch](https://heise.de/-4916456)
 
 
 
