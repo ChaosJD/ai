@@ -54,6 +54,7 @@ German
 * [European AI Fund: Mozilla sucht KI-Experten und Bürgerrechtler](https://heise.de/-4911277)
 * [Verwaltung und Inbetriebnahme von ML-Modellen]( https://heise.de/-4911723)
 * [Machine Learning: Torch für R ersetzt PyTorch](https://heise.de/-4916456)
+* [Corona: Britische Städte überwachen Abstandhalten mit KI-Kameras ](https://heise.de/-4926085)
 
 
 
