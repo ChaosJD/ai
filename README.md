@@ -63,10 +63,10 @@ German
 * [Reinforcement Learning: An Introduction (Adaptive Computation and Machine Learning)](https://www.amazon.de/gp/product/0262039249/ref=ox_sc_act_title_4?smid=A3JWKAKR8XB7XF&psc=1)  
 
 
-
 ## Framework
 * [intel openVINO](https://software.intel.com/en-us/openvino-toolkit/choose-download)    
 * [https://opencv.org/](https://opencv.org/)
+
 
 ## Wikipedia
 * [openVINO](https://en.wikipedia.org/wiki/OpenVINO)  
@@ -82,8 +82,10 @@ German
 * [Weltmacht Amazon - Das Reich des Jeff Bezos - german](https://www.zdf.de/dokumentation/zdfinfo-doku/weltmacht-amazon---das-reich-des-jeff-bezos-100.html)
 * [Helena die künstliche Intelligenz](https://www.arte.tv/de/videos/RC-017847/helena-die-kuenstliche-intelligenz/)
 
+
 ## TvRecommendation
 * welt.de: Auto der Zukunft, Guck mal wer da fährt
+
 
 # EdgeDevices
 * [Chip schafft 2.900 Teraops pro Watt](https://www.golem.de/news/analog-inference-accelerator-ki-chip-schafft-2-900-teraops-pro-watt-2007-149559.html)
@@ -92,13 +94,20 @@ German
 * [Google_Coral](https://coral.ai/products/dev-board/)
 * [tinyvision](https://tinyvision.ai/)
 
-## Accelerator
- * [Coral USB Accelerator](https://coral.ai/products/accelerator)
+
+# Google
+ * [Coral](https://coral.ai/)
+ 
+## Nvidia
+### autonome Maschinenen
+* [Überblick](https://www.nvidia.com/de-de/autonomous-machines/)
+* [Linux4Tegra](https://developer.nvidia.com/embedded/linux-tegra)
 
 ## Bib
 * [arxiv.org](https://arxiv.org/)
 
-# CiCd AI
+
+## CiCd AI
 * [Machine Learning: CML schickt Daten und Modelltraining in die Pipeline](https://heise.de/-4841023)
 * [Verwaltung und Inbetriebnahme von ML-Modellen](https://heise.de/-4911723)
 
