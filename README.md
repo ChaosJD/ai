@@ -47,23 +47,24 @@ German
 * [Blogger enttarnt künstlich intelligenten Bot auf Reddit](https://heise.de/-4928468)
 * [EuroHPC-Projekt: Italienischer Supercomputer Leonardo mit 10 KI-ExaFlops ](https://heise.de/-4930758)!
 * [Kommentar: Die KI-Entwicklung muss nichtwestliche Perspektiven einbeziehen](https://heise.de/-4930121)
-* [Verwaltung und Inbetriebnahme von ML-Modellen](https://heise.de/-4911723)
 * [Google macht Google Assistent zum Mann](https://www.golem.de/news/digitaler-assistant-google-macht-google-assistant-zum-mann-und-klingt-gut-1909-143963.html)
-
-## Literature & Media
-* [Hands-On Intelligent Agents with OpenAI Gym: Your guide to developing AI agents using deep reinforcement learning (English Edition)](https://www.amazon.de/gp/product/178883657X/ref=ox_sc_act_title_1?smid=A3JWKAKR8XB7XF&psc=1)  
-* [Deep Reinforcement Learning Hands-On: Apply modern RL methods, with deep Q-networks, value iteration, policy gradients, TRPO, AlphaGo Zero and more (English Edition)](https://www.amazon.de/gp/product/1788834240/ref=ox_sc_act_title_2?smid=A3JWKAKR8XB7XF&psc=1)  
-* [Artificial Intelligence: A Modern Approach, Global Edition](https://www.amazon.de/gp/product/1292153962/ref=ox_sc_act_title_3?smid=A3JWKAKR8XB7XF&psc=1)  
-* [Reinforcement Learning: An Introduction (Adaptive Computation and Machine Learning)](https://www.amazon.de/gp/product/0262039249/ref=ox_sc_act_title_4?smid=A3JWKAKR8XB7XF&psc=1)  
+* [UN-Berichterstatter: "Welt stolpert wie Zombie in digitalen Anti-Sozialstaat"](https://heise.de/-4558982)
+* [AlgorithmsWatch](https://algorithmwatch.org/en/)
 * [TÜV-Verband fordert Zulassungsverfahren für gefährliche KI-Anwendungen ]( https://heise.de/-4887239)
 * [European AI Fund: Mozilla sucht KI-Experten und Bürgerrechtler](https://heise.de/-4911277)
 * [Verwaltung und Inbetriebnahme von ML-Modellen]( https://heise.de/-4911723)
 * [Machine Learning: Torch für R ersetzt PyTorch](https://heise.de/-4916456)
 * [Corona: Britische Städte überwachen Abstandhalten mit KI-Kameras ](https://heise.de/-4926085)
 
+## Literature & Media
+* [Hands-On Intelligent Agents with OpenAI Gym: Your guide to developing AI agents using deep reinforcement learning (English Edition)](https://www.amazon.de/gp/product/178883657X/ref=ox_sc_act_title_1?smid=A3JWKAKR8XB7XF&psc=1)  
+* [Deep Reinforcement Learning Hands-On: Apply modern RL methods, with deep Q-networks, value iteration, policy gradients, TRPO, AlphaGo Zero and more (English Edition)](https://www.amazon.de/gp/product/1788834240/ref=ox_sc_act_title_2?smid=A3JWKAKR8XB7XF&psc=1)  
+* [Artificial Intelligence: A Modern Approach, Global Edition](https://www.amazon.de/gp/product/1292153962/ref=ox_sc_act_title_3?smid=A3JWKAKR8XB7XF&psc=1)  
+* [Reinforcement Learning: An Introduction (Adaptive Computation and Machine Learning)](https://www.amazon.de/gp/product/0262039249/ref=ox_sc_act_title_4?smid=A3JWKAKR8XB7XF&psc=1)  
 
 
-## Frameworks
+
+## Framework
 * [intel openVINO](https://software.intel.com/en-us/openvino-toolkit/choose-download)    
 * [https://opencv.org/](https://opencv.org/)
 
@@ -99,6 +100,7 @@ German
 
 # CiCd AI
 * [Machine Learning: CML schickt Daten und Modelltraining in die Pipeline](https://heise.de/-4841023)
+* [Verwaltung und Inbetriebnahme von ML-Modellen](https://heise.de/-4911723)
 
 # Service
 * [aiva](https://www.aiva.ai/)
