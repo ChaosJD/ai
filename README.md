@@ -46,7 +46,7 @@ German
 * [Microsoft lizenziert sich GPT-3 für die eigenen Zwecke](https://www.golem.de/news/openai-microsoft-lizenziert-sich-gpt-3-fuer-die-eigenen-zwecke-2009-151045.html)
 * [Blogger enttarnt künstlich intelligenten Bot auf Reddit](https://heise.de/-4928468)
 * [EuroHPC-Projekt: Italienischer Supercomputer Leonardo mit 10 KI-ExaFlops ](https://heise.de/-4930758)!
-* [Kommentar: Die KI-Entwicklung muss nichtwestliche Perspektiven einbeziehen](Kurzlink: https://heise.de/-4930121)
+* [Kommentar: Die KI-Entwicklung muss nichtwestliche Perspektiven einbeziehen](https://heise.de/-4930121)
 * [Verwaltung und Inbetriebnahme von ML-Modellen](https://heise.de/-4911723)
 
 ## Literature & Media
