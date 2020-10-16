@@ -47,6 +47,7 @@ German
 * [Blogger enttarnt künstlich intelligenten Bot auf Reddit](https://heise.de/-4928468)
 * [EuroHPC-Projekt: Italienischer Supercomputer Leonardo mit 10 KI-ExaFlops ](https://heise.de/-4930758)!
 * [Kommentar: Die KI-Entwicklung muss nichtwestliche Perspektiven einbeziehen](Kurzlink: https://heise.de/-4930121)
+* [Verwaltung und Inbetriebnahme von ML-Modellen](https://heise.de/-4911723)
 
 ## Literature & Media
 * [Hands-On Intelligent Agents with OpenAI Gym: Your guide to developing AI agents using deep reinforcement learning (English Edition)](https://www.amazon.de/gp/product/178883657X/ref=ox_sc_act_title_1?smid=A3JWKAKR8XB7XF&psc=1)  
