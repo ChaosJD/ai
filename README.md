@@ -45,6 +45,7 @@ German
 * [Konferenz RO-MAN: Essen und trinken mit dem Roboter]( https://heise.de/-4883642)
 * [Microsoft lizenziert sich GPT-3 für die eigenen Zwecke](https://www.golem.de/news/openai-microsoft-lizenziert-sich-gpt-3-fuer-die-eigenen-zwecke-2009-151045.html)
 * [Blogger enttarnt künstlich intelligenten Bot auf Reddit](https://heise.de/-4928468)
+* [EuroHPC-Projekt: Italienischer Supercomputer Leonardo mit 10 KI-ExaFlops ](https://heise.de/-4930758)!
 
 ## Literature & Media
 * [Hands-On Intelligent Agents with OpenAI Gym: Your guide to developing AI agents using deep reinforcement learning (English Edition)](https://www.amazon.de/gp/product/178883657X/ref=ox_sc_act_title_1?smid=A3JWKAKR8XB7XF&psc=1)  
