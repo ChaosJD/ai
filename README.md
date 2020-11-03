@@ -77,7 +77,30 @@ German
 * [MeinkuenstlicherDoppelgänger_ ServusTv](https://www.servustv.com/videos/aa-1w3frs2fw1w12/) 
 * [Hello, AI World. Meet Jetson Nano](https://youtu.be/9gVupqHqJws)
 * [AlphaGo - The Movie | Full Documentary](https://youtu.be/WXuK6gekU1Y)
-* [Künstliche Intelligenz - Wettlauf der Großmächte](https://www.zdf.de/dokumentation/zdfinfo-doku/-kuenstliche-intelligenz-wettlauf-der-grossmaechte-100.html)
+* [Künstliche Intelligenz - Wettlauf der Großmächte](https://www.zdf.de/dokumentation/zdfinfo-doku/-kuenstliche-intelligenz-wettlauf-der-grossmaechte-100.html)  
+Chinese Unicorns
+  * Momenta
+  * Horizon Robotics
+  * Face **
+  * Birmein
+  * meitu
+  * 4Paradigm
+ 1 Unicorcn = min. 1 billion ( 1 Milliarde )  
+ 2 Unicorn = more then 5 billion ( 5 Milliarden )  
+ 
+  Tags:
+  * Megvii
+  * Embark
+  * Wired
+  * sharp eyes
+  
+  Book
+  * Das Zeitalter des Überwachunskapitalismus
+  * AI Superwowers
+  
+  Institute
+  * [AiNow](https://ainowinstitute.org/)
+
 * [K.o. durch KI? Keine Angst vor schlauen Maschinen!](https://www.zdf.de/wissen/leschs-kosmos/ko-durch-ki-keine-angst-vor-schlauen-maschinen-100.html)
 * [Weltmacht Amazon - Das Reich des Jeff Bezos - german](https://www.zdf.de/dokumentation/zdfinfo-doku/weltmacht-amazon---das-reich-des-jeff-bezos-100.html)
 * [Helena die künstliche Intelligenz](https://www.arte.tv/de/videos/RC-017847/helena-die-kuenstliche-intelligenz/)
