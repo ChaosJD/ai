@@ -55,6 +55,7 @@ German
 * [Verwaltung und Inbetriebnahme von ML-Modellen]( https://heise.de/-4911723)
 * [Machine Learning: Torch für R ersetzt PyTorch](https://heise.de/-4916456)
 * [Corona: Britische Städte überwachen Abstandhalten mit KI-Kameras ](https://heise.de/-4926085)
+* [KI-Kommission des Bundestags: "Lesen Sie den Bericht!"](https://www.golem.de/news/ki-kommission-des-bundestags-lesen-sie-den-bericht-2011-151930.html)
 
 ## Literature & Media
 * [Hands-On Intelligent Agents with OpenAI Gym: Your guide to developing AI agents using deep reinforcement learning (English Edition)](https://www.amazon.de/gp/product/178883657X/ref=ox_sc_act_title_1?smid=A3JWKAKR8XB7XF&psc=1)  
