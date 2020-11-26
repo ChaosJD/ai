@@ -56,7 +56,7 @@ German
 * [Machine Learning: Torch für R ersetzt PyTorch](https://heise.de/-4916456)
 * [Corona: Britische Städte überwachen Abstandhalten mit KI-Kameras ](https://heise.de/-4926085)
 * [KI-Kommission des Bundestags: "Lesen Sie den Bericht!"](https://www.golem.de/news/ki-kommission-des-bundestags-lesen-sie-den-bericht-2011-151930.html)
-
+* (KI ist nur so fair wie die Menschen)[https://www.golem.de/news/diskriminierung-ki-ist-nur-so-fair-wie-die-menschen-die-sie-programmieren-2006-148768.html]
 ## Literature & Media
 * [Hands-On Intelligent Agents with OpenAI Gym: Your guide to developing AI agents using deep reinforcement learning (English Edition)](https://www.amazon.de/gp/product/178883657X/ref=ox_sc_act_title_1?smid=A3JWKAKR8XB7XF&psc=1)  
 * [Deep Reinforcement Learning Hands-On: Apply modern RL methods, with deep Q-networks, value iteration, policy gradients, TRPO, AlphaGo Zero and more (English Edition)](https://www.amazon.de/gp/product/1788834240/ref=ox_sc_act_title_2?smid=A3JWKAKR8XB7XF&psc=1)  
