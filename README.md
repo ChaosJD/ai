@@ -62,6 +62,8 @@ German
 * [Konflikt um Fachaufsatz von Google-KI-Forscherin](https://heise.de/-4982590)
 * [Marke Eigenbau als Bremsklotz für KI-Entwicklertools](https://heise.de/-4978528)
 * [European AI Forum: "KI nicht überregulieren"](https://heise.de/-4986201)
+### Autnomes Fahren - Missing Link
+* [Missing Link: Autonomes Fahren – ja, wo fahren sie denn? (Teil 1)](https://heise.de/-4986653)
 
 ## Literature & Media
 * [Hands-On Intelligent Agents with OpenAI Gym: Your guide to developing AI agents using deep reinforcement learning (English Edition)](https://www.amazon.de/gp/product/178883657X/ref=ox_sc_act_title_1?smid=A3JWKAKR8XB7XF&psc=1)  
