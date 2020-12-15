@@ -62,6 +62,8 @@ German
 * [Konflikt um Fachaufsatz von Google-KI-Forscherin](https://heise.de/-4982590)
 * [Marke Eigenbau als Bremsklotz für KI-Entwicklertools](https://heise.de/-4978528)
 * [European AI Forum: "KI nicht überregulieren"](https://heise.de/-4986201)
+* [Machine Learning: ML Kit erkennt E-Mail-Adressen, IBANs, Datumsangaben und mehr]( https://heise.de/-4988960)
+
 ### Autnomes Fahren - Missing Link
 * [Missing Link: Autonomes Fahren – ja, wo fahren sie denn? (Teil 1)](https://heise.de/-4986653)
 
