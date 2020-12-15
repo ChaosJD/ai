@@ -147,4 +147,7 @@ Chinese Unicorns
 * [aiva](https://www.aiva.ai/)
 
 # Market
-+ [Nascent Market Definition](http://www.invstor.com/information/go-big-dictionary/nascent-market-definition)
+* [Nascent Market Definition](http://www.invstor.com/information/go-big-dictionary/nascent-market-definition)
+
+## IT-Recht
+* [EU-Grundrechteagentur: Automatisierte KI-Entscheidungen sollen anfechtbar sein](https://heise.de/-4989538)
