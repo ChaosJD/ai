@@ -88,7 +88,7 @@ German
 * [MeinkuenstlicherDoppelgänger_ ServusTv](https://www.servustv.com/videos/aa-1w3frs2fw1w12/) 
 * [Hello, AI World. Meet Jetson Nano](https://youtu.be/9gVupqHqJws)
 * [AlphaGo - The Movie | Full Documentary](https://youtu.be/WXuK6gekU1Y)
-* [Künstliche Intelligenz - Wettlauf der Großmächte](https://www.zdf.de/dokumentation/zdfinfo-doku/-kuenstliche-intelligenz-wettlauf-der-grossmaechte-100.html)  
+* [Künstliche Intelligenz - Wettlauf der Großmächte](https://youtu.be/aZqmyCbY6Q0)  
 Chinese Unicorns
   * Momenta
   * Horizon Robotics
