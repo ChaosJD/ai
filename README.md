@@ -159,7 +159,7 @@ Chinese Unicorns
   **Was wir wirklich verstehen müssen ist, was im nächsten Moment geschieht. In den nächsten 3, 5 Sekunden, in der nächsten Minute oder vielleicht Stunde. Das ist der fehlnde   Baustein.**  
   **Bauchgefühl ist sehr schwer zu programmieren. (Verkehr)**  
   
-  Prof. Ixad Rahwan  
+  Prof. Iyad Rahwan  
   MIT Media Lab - Boston  & MIT- Berlin
   (Moral Machine)  
   **Bei autonomen Fahrzeugen mit dem extrem schnellen Computern & Sensoren wird das Umfeld Millionenmal pro Sekunde erfasst. Für die Maschine läuft ide zIet langsamer ab. Sie kann den Ablauf genau auswerten & sich dann für eione bestimmte Strategie entscheiden. Doch was ist eine gute Entscheidung?**
