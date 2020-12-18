@@ -151,7 +151,7 @@ Chinese Unicorns
    
   Katharina Barley  
   Bundesministering  
-  Justiz & Verbraucherschutz
+  Justiz & Verbraucherschutz  
   **Daten sind kein Kriterium beim Kartellamt**  
   
   Prof. Sertac Karaman  
