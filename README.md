@@ -115,7 +115,54 @@ Chinese Unicorns
 * [K.o. durch KI? Keine Angst vor schlauen Maschinen!](https://www.zdf.de/wissen/leschs-kosmos/ko-durch-ki-keine-angst-vor-schlauen-maschinen-100.html)
 * [Weltmacht Amazon - Das Reich des Jeff Bezos - german](https://www.zdf.de/dokumentation/zdfinfo-doku/weltmacht-amazon---das-reich-des-jeff-bezos-100.html)
 * [Helena die künstliche Intelligenz](https://www.arte.tv/de/videos/RC-017847/helena-die-kuenstliche-intelligenz/)
-
+* [Der große Umbruch - Wie Künstliche Intelligenz unseren Alltag verändert](https://youtu.be/ltF3kKY073A)   
+  Pranov Rajpurkar  
+  Machine Learnening Group  
+  Stanford  
+  
+  Prof. Max Litte  
+  Mathematiker  
+  Aston Unversity - Brimingham  
+  
+  Prof. Gesche Joust  
+  Designforschering  
+  Universität der Künste - Berlin  
+  9, 9, 6  
+  digitales Restaurant 20 Millionen Us Dollar, 1 Restaurant  
+  Trial & Error
+  
+  Chen Bong Tai  
+  Leitender Ingenieur  
+  Shenzhen-Longgang Operation Center  
+  (Huawei)  
+  
+  Jens Redmer
+  Google Deutschland
+  
+  Patentanmeldung, Unitated States  
+  Patent Application Publication, Pub. No: US2016/0261932A1 Pub. Date: Sep8, 2016  
+  Monitoring & Reporting household activities in the smart home according to household policy  
+  Applicant: Google, INC, Mountain View, CA (US)  
+  Inventors: Anthony M. Fadell, Yoky Matsuoka, David Sloo, Maxime Veron
+  
+  Barry C. Lynn  
+  Leiter Openmarkets Institute  
+  Washington DC  
+   
+  Katharina Barley  
+  Bundesministering  
+  Justiz & Verbraucherschutz
+  **Daten sind kein Kriterium beim Kartellamt**  
+  
+  Prof. Sertac Karaman  
+  MIT-Boston  
+  **Was wir wirklich verstehen müssen ist, was im nächsten Moment geschieht. In den nächsten 3, 5 Sekunden, in der nächsten Minute oder vielleicht Stunde. Das ist der fehlnde   Baustein.**  
+  **Bauchgefühl ist sehr schwer zu programmieren. (Verkehr)**  
+  
+  Prof. Ixad Rahwan  
+  MIT Media Lab - Boston  & MIT- Berlin
+  (Moral Machine)  
+  **Bei autonomen Fahrzeugen mit dem extrem schnellen Computern & Sensoren wird das Umfeld Millionenmal pro Sekunde erfasst. Für die Maschine läuft ide zIet langsamer ab. Sie kann den Ablauf genau auswerten & sich dann für eione bestimmte Strategie entscheiden. Doch was ist eine gute Entscheidung?**
 
 ## TvRecommendation
 * welt.de: Auto der Zukunft, Guck mal wer da fährt
