@@ -164,6 +164,7 @@ Chinese Unicorns
   (Moral Machine)  
   **Bei autonomen Fahrzeugen mit dem extrem schnellen Computern & Sensoren wird das Umfeld Millionenmal pro Sekunde erfasst. Für die Maschine läuft ide zIet langsamer ab. Sie kann den Ablauf genau auswerten & sich dann für eione bestimmte Strategie entscheiden. Doch was ist eine gute Entscheidung?**
 
+* [Künstliche Intelligenz (KI) - Wenn die Zukunft zu klug für uns wird | Doku](https://youtu.be/hRaw0TYkUqE)
 ## TvRecommendation
 * welt.de: Auto der Zukunft, Guck mal wer da fährt
 
