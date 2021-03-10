@@ -56,7 +56,7 @@ German
 * [Machine Learning: Torch für R ersetzt PyTorch](https://heise.de/-4916456)
 * [Corona: Britische Städte überwachen Abstandhalten mit KI-Kameras ](https://heise.de/-4926085)
 * [KI-Kommission des Bundestags: "Lesen Sie den Bericht!"](https://www.golem.de/news/ki-kommission-des-bundestags-lesen-sie-den-bericht-2011-151930.html)
-* (KI ist nur so fair wie die Menschen)[https://www.golem.de/news/diskriminierung-ki-ist-nur-so-fair-wie-die-menschen-die-sie-programmieren-2006-148768.html]
+* [KI ist nur so fair wie die Menschen](https://www.golem.de/news/diskriminierung-ki-ist-nur-so-fair-wie-die-menschen-die-sie-programmieren-2006-148768.html)
 * [Bundestagsstudie: Intransparente Benachteiligung durch Künstliche Intelligenz](https://heise.de/-4970243)
 * [Boeing testet autonom kollaborierende KI-Jet-Drohnen ](https://heise.de/-4977522)
 * [Konflikt um Fachaufsatz von Google-KI-Forscherin](https://heise.de/-4982590)
