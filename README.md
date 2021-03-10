@@ -27,7 +27,6 @@ German
 * [Reinforcement Learning: DeepMind präsentiert eine neue Bibliothek für Python]( https://heise.de/-4773825)
 * [OpenAI präsentiert Mehrzweck-API für textbasierte KI-Aufgaben ](https://heise.de/-4781985)
 * [KI ist nur so fair wie die Menschen](https://www.golem.de/news/diskriminierung-ki-ist-nur-so-fair-wie-die-menschen-die-sie-programmieren-2006-148768.html)
-* [KI ist nur so fair wie die Menschen](https://www.golem.de/news/diskriminierung-ki-ist-nur-so-fair-wie-die-menschen-die-sie-programmieren-2006-148768.html)
 * [Machine Learning: MLflow landet bei der Linux Foundation](https://www.heise.de/news/Machine-Learning-MLflow-landet-bei-der-Linux-Foundation-4795170.html)
 * [TransCoder von Facebook AI übersetzt zwischen Programmiersprachen]( https://heise.de/-4851687)  
 * [9 Key Machine Learning Algorithms Explained in Plain English](https://www.freecodecamp.org/news/a-no-code-intro-to-the-9-most-important-machine-learning-algorithms-today/)
