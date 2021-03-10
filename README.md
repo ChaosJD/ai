@@ -202,3 +202,6 @@ Chinese Unicorns
 
 ## IT-Recht
 * [EU-Grundrechteagentur: Automatisierte KI-Entscheidungen sollen anfechtbar sein](https://heise.de/-4989538)
+
+## Compiler
+* [Amiga, Atari, Mac: LLVM bekommt Support für Motorola 68000 ](https://www.golem.de/news/amiga-atari-mac-llvm-bekommt-support-fuer-motorola-68000-2103-154770.html?utm_medium=email&utm_campaign=sharebar&utm_source=email)
