@@ -65,6 +65,7 @@ German
 * [Gesichtserkennung und Risikobewertung: 10 Tage im Gefängnis wegen Algorithmen](https://heise.de/-5001003)
 * [Machine Learning: ML Kit kümmert sich zum offiziellen Release um Selfies](https://heise.de/-5076283)
 * [Machine Learning: TensorFlow-Projekt verwaltet Metadaten zum Modelltraining](https://heise.de/-5019689)
+* [Marke Eigenbau als Bremsklotz für KI-Entwicklertools](https://heise.de/-4978528)
 
 ### Autnomes Fahren - Missing Link
 * [Missing Link: Autonomes Fahren – ja, wo fahren sie denn? (Teil 1)](https://heise.de/-4986653)
