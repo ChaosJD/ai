@@ -66,7 +66,6 @@ German
 * [Machine Learning: ML Kit kümmert sich zum offiziellen Release um Selfies](https://heise.de/-5076283)
 * [Machine Learning: TensorFlow-Projekt verwaltet Metadaten zum Modelltraining](https://heise.de/-5019689)
 * [Marke Eigenbau als Bremsklotz für KI-Entwicklertools](https://heise.de/-4978528)
-* [Machine Learning: CML schickt Daten und Modelltraining in die Pipeline]( https://heise.de/-4841023)
 
 ### Autnomes Fahren - Missing Link
 * [Missing Link: Autonomes Fahren – ja, wo fahren sie denn? (Teil 1)](https://heise.de/-4986653)
