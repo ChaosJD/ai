@@ -69,6 +69,7 @@ German
 
 ### Autnomes Fahren - Missing Link
 * [Missing Link: Autonomes Fahren – ja, wo fahren sie denn? (Teil 1)](https://heise.de/-4986653)
+* [Missing Link: Autonomes Fahren – hätt' ich dich heut erwartet... (Teil 2)]( https://heise.de/-4993826)
 
 ## Literature & Media
 * [Hands-On Intelligent Agents with OpenAI Gym: Your guide to developing AI agents using deep reinforcement learning (English Edition)](https://www.amazon.de/gp/product/178883657X/ref=ox_sc_act_title_1?smid=A3JWKAKR8XB7XF&psc=1)  
