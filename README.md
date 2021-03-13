@@ -71,7 +71,7 @@ German
   * Bongrad Problem ist sehr nah am Kern 'reiner' Intelligenz
   * Hardware Spiel: Zendo - Looney Labs
 
-  Persönlichkeiten:  
+  Personen:  
     * Laura Fiorini - Scuola Superiore Sant'Anna, Pisa: Es braucht Psychologie, Neurowissenschaft und Kognitionsforschung Informatiker und Ingenieurswissenschaftler für Soziale und emotionale Fähigkeiten
     * Psychologin Agnieszka Wykowska - Italian Institute of Technology
     * Experte für nicht lineare Dynmaik: Hiroaki Wagatsuma - Kyushu Institute of Technology
@@ -81,7 +81,14 @@ German
     * Alessandra Sorrentino - Scoola Superiore Sant'Anna: Einschätzen der Gebrechlichkeit#
     * N. Alberto Borghese - Universität of Milano
     * Roger A. Soraa - Norwegain University of Science & Technology
+* [Konferenz RO-MAN: Essen und trinken mit dem Roboter](https://heise.de/-4883642)
 
+  Personen:
+  * Benjamin Lewandowski - TU Ilmenau
+
+  Meine Meinung
+    * Einsatz für Distanziertes Essen als haptisches Feedback
+    * Kingsman 2 - Golden Circle
 
 ### Autnomes Fahren - Missing Link
 * [Missing Link: Autonomes Fahren – ja, wo fahren sie denn? (Teil 1)](https://heise.de/-4986653)
