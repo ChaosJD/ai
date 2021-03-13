@@ -66,6 +66,22 @@ German
 * [Machine Learning: ML Kit kümmert sich zum offiziellen Release um Selfies](https://heise.de/-5076283)
 * [Machine Learning: TensorFlow-Projekt verwaltet Metadaten zum Modelltraining](https://heise.de/-5019689)
 * [Marke Eigenbau als Bremsklotz für KI-Entwicklertools](https://heise.de/-4978528)
+* [Konferenz RO-MAN: Roboter mit Herz, Verstand und Seele](https://heise.de/-4882792)  
+  Zusätze:  
+  * Bongrad Problem ist sehr nah am Kern 'reiner' Intelligenz
+  * Hardware Spiel: Zendo - Looney Labs
+
+  Persönlichkeiten:  
+    * Laura Fiorini - Scuola Superiore Sant'Anna, Pisa: Es braucht Psychologie, Neurowissenschaft und Kognitionsforschung Informatiker und Ingenieurswissenschaftler für Soziale und emotionale Fähigkeiten
+    * Psychologin Agnieszka Wykowska - Italian Institute of Technology
+    * Experte für nicht lineare Dynmaik: Hiroaki Wagatsuma - Kyushu Institute of Technology
+    * Informatiker Mikhail Bongrad
+    * Chiara Filippi - Universität of Chieti-Pescora
+    * Antonio Guerrieri - Fondazione Neurone: Emotionserkennung anhand der Sprache
+    * Alessandra Sorrentino - Scoola Superiore Sant'Anna: Einschätzen der Gebrechlichkeit#
+    * N. Alberto Borghese - Universität of Milano
+    * Roger A. Soraa - Norwegain University of Science & Technology
+
 
 ### Autnomes Fahren - Missing Link
 * [Missing Link: Autonomes Fahren – ja, wo fahren sie denn? (Teil 1)](https://heise.de/-4986653)
