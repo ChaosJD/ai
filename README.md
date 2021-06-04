@@ -71,7 +71,7 @@ German
   * Bongrad Problem ist sehr nah am Kern 'reiner' Intelligenz
   * Hardware Spiel: Zendo - Looney Labs
  * [Künstliche Intelligenz: "Nahezu kein Beruf fällt komplett weg"](https://user-images.githubusercontent.com/32511119/120078211-9d402000-c0ae-11eb-8454-ebc37a921e48.png)
-)
+ * [Wie eingebautes Misstrauen KI-Systeme sicherer machen kann]( https://heise.de/-6049154)
 
   Personen:  
     * Laura Fiorini - Scuola Superiore Sant'Anna, Pisa: Es braucht Psychologie, Neurowissenschaft und Kognitionsforschung Informatiker und Ingenieurswissenschaftler für Soziale und emotionale Fähigkeiten
