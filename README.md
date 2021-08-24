@@ -93,6 +93,7 @@ German
     * Einsatz für Distanziertes Essen als haptisches Feedback
     * Kingsman 2 - Golden Circle
 
+* [https://www.golem.de/news/einziger-zeuge-ki-system-zur-schusserkennung-bringt-mann-ins-gefaengnis-2108-159051.html]( Einziger Zeuge KI: System zur Schusserkennung bringt Mann ins Gefängnis )
 ### Autonomes Fahren - Missing Link
 * [Missing Link: Autonomes Fahren – ja, wo fahren sie denn? (Teil 1)](https://heise.de/-4986653)
 * [Missing Link: Autonomes Fahren – hätt' ich dich heut erwartet... (Teil 2)]( https://heise.de/-4993826)
