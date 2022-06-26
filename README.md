@@ -116,6 +116,7 @@ German
 ## Wikipedia
 * [openVINO](https://en.wikipedia.org/wiki/OpenVINO)  
 * [Tensor Processing Unit](https://de.wikipedia.org/wiki/Tensor_Processing_Unit)
+* [Arthur C. Clarks Rules](https://en.wikipedia.org/wiki/Clarke%27s_three_laws)
 
 
 ## Vid
@@ -238,3 +239,4 @@ Chinese Unicorns
 
 ## Compiler
 * [Amiga, Atari, Mac: LLVM bekommt Support für Motorola 68000 ](https://www.golem.de/news/amiga-atari-mac-llvm-bekommt-support-fuer-motorola-68000-2103-154770.html?utm_medium=email&utm_campaign=sharebar&utm_source=email)
+
