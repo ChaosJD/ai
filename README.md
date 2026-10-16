@@ -240,10 +240,15 @@ Chinese Unicorns
 ## Compiler
 * [Amiga, Atari, Mac: LLVM bekommt Support für Motorola 68000 ](https://www.golem.de/news/amiga-atari-mac-llvm-bekommt-support-fuer-motorola-68000-2103-154770.html?utm_medium=email&utm_campaign=sharebar&utm_source=email)
 
-# AI Modles
+# AI Models
 
 ## Tipps und Tricks
 
 *  Task Accuracy / Pass Rates Scale Across Effort Levels with 
+* Sweet Spot
 
+## Tools
+
+* [Rust Token killer](https://www.rtk-ai.app/)
+* [graphify](https://github.com/Graphify-Labs/graphify)
 
